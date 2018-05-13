@@ -1,3 +1,4 @@
 main.*
 !main.tex
+!main.pdf
 *.aux
