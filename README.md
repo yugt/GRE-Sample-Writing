@@ -1,6 +1,3 @@
-# GRE-Sample-Writing
-## Sample writing by ETS with scores >= 5
-
 The Pool of Issue Topics
 ========================
 
