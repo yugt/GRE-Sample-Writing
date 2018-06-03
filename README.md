@@ -365,6 +365,79 @@ that role must be fulfilled by a watchdog, not the corporation itself,
 and those expectations mush be imposed UPON the corporations, not
 expected FROM them.
 
+### Score 5
+
+In order to survive, corporations must make money. Successful
+corporations try and make as much money as possible. Yet this incentive
+to make money does not mean that a corporation can be *detriment* to the
+society in which it operates. Corporations have a duty and a
+responsibility to ensure the well being of the society in which they are
+a part.
+
+Contributing to the well being of a society is actually beneficial to a
+corporation in many cases. One of these is making sure that workers are
+well taken care of. Absenteeism and neglect while on duty are a big
+problem for corporations, as is attracting the best workers, who
+hopefully will lower the risks caused by absenteeism and neglect.
+
+One way that corporations can attract these workers is by offering them
+generous benefits. If, for example, an employer includes with enployment
+a good health plan, they will be able to attract better workers than one
+that does not, and that will aid the corporation greatly. Health care
+plans provided by employers mean that these people have at their
+disposal health coverage, which means that they have the care they need
+if they get sick. This also might encourage perventive care, something
+that has been shown to reduce the cost and risk of developing other
+major ailments.
+
+Another area where corporations providing support for themselves and
+society is in the creation of human capital. Globolization and increased
+education means that employers need a better educated workforce more
+than ever. One way that employers can contribute to this is by
+sponsoring worker training programs, or paying for their emplyees to
+return to school. This creates a more educated workforce for employers,
+as well as may increase the loyalty of employees to an employer. An
+employee who received an education sponsored by an employer may be
+thankful for receiving that education, and may work harder for that
+employer. This creates a benefit for employers and employees.
+
+The main reason that corporations have a duty to contribute to the well
+being of society is that they are a part of the society. Even though
+they have an economic desire to make a profit, corporations also should
+think long term about actions they take which could hurt their company.
+A good example of this is BP, after the recent oil spill in the gulf.
+Their desire to make a profit meant that they did not keep up on all of
+their safety regulations and standard, and the result of the then faulty
+of equipment caused a massive spill. This cost them huge amounts of
+money to clean up, as well as the fines they had to pay for causing
+this. The biggest loss for BP however is that their brand name will be
+associated in the US and abroad as the company that caused this guabt
+oil spill. As that spill was happening, many people boycotted that
+company, resulting in lost potential revenue. They may realize that as
+they lose business to people upset by the spill, that making sure a
+spill didn’t happen in the first place was cheaper.
+
+Another reason corporations have to ensure the well-being of a society
+is that by making a society better off, a company may have more
+consumers. This is especially true for corporations that sell goods for
+middle and upper class consumers. If a corporation tries to bring people
+up and increase the overall economic well being of society, they may
+find that more and more people have the ability to afford their goods.
+This could generate huge new profitsd for this corporation, since their
+pool of potential consumers has gone up considerably. Concentrating on
+the long term here means that corporations can increase their pool of
+potential consumers.
+
+By denying responsibility to a society, a corporation is only looking as
+the possible short term profits, not the potential long term ones. While
+in the short term it may work for a corporation to ignore their societal
+responsibility, it is adventageous in the long term for the entire
+corporation to make sure society is getting better. The potential for
+new markets, products, production processes and other beneficial factors
+that come from promoting well being is quite large. This is something
+that corporations should be ready and willing to take advantage of, and
+something that society should hold them accountable for.
+
 The Pool of Argument Topics
 ===========================
 

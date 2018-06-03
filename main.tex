@@ -1,6 +1,7 @@
-\documentclass[10pt,oneside,a4paper]{book}
+\documentclass[12pt,oneside,a4paper]{book}
+\usepackage[margin=1in]{geometry}
 \usepackage{fancyhdr}
-\pagestyle{empty}
+\pagestyle{fancy}
 
 \title{GRE Sample Writing}
 \author{Guangting Yu}
@@ -9,19 +10,17 @@
 \begin{document}
 
 \maketitle
-
 \tableofcontents
+
 \chapter{The Pool of Issue Topics}
-\begin{large}
-\include{./Issue/issue001}
+\input{./Issue/issue001.tex}
 \include{./Issue/issue002}
 \include{./Issue/issue003}
-\end{large}
+
 
 \chapter{The Pool of Argument Topics}
-\begin{large}
-\include{./Argument/argument001}
+\input{./Argument/argument001.tex}
 \include{./Argument/argument002}
-\end{large}
+
 
 \end{document}
