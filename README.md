@@ -68,28 +68,28 @@ most studies of teaching efficiency indicate that praising positive
 actions and ignoring negative ones can create a more stable and
 efficient classroom. It needs to be stressed, however, that this tool is
 only effective at certain levels of misbehavior. As mentioned above,
-when a behaviors is *precipitated* by feelings of revenge, power or
-total self-worthlessness, this methodology will likely not work. It is
-likely to be very successful, however, when the drive behind the
-misbehavior is simple attention seeking. In many of these instances, if
-the teacher demonstrates clearly that inappropriate behavior does not
-result in the gaining of attention, students are more likely to seek
-attention by behaving properly. Should the student choose this path,
-then the ignoring has worked and when the positive behavior is
-exhibited, then the teacher can utilize the first part of the theory and
-support or praise this behavior. Now it is much more likely to be
-repeated. If the student does not choose this path and instead elects to
-raise the actions to a higher level that presents a more serious issue,
-then ignorance alone cannot work and other methods must be employed.
+when a behavior is *precipitated* by feelings of revenge, power or total
+self-worthlessness, this methodology will likely not work. It is likely
+to be very successful, however, when the drive behind the misbehavior is
+simple attention seeking. In many of these instances, if the teacher
+demonstrates clearly that inappropriate behavior does not result in the
+gaining of attention, students are more likely to seek attention by
+behaving properly. Should the student choose this path, then the
+ignoring has worked and when the positive behavior is exhibited, then
+the teacher can utilize the first part of the theory and support or
+praise this behavior. Now it is much more likely to be repeated. If the
+student does not choose this path and instead elects to raise the
+actions to a higher level that presents a more serious issue, then
+ignorance alone cannot work, and other methods must be employed.
 
 In conclusion, one can appreciate the *credo* expressed in this
-instance, but surely we all can see the potential error of following it
+instance, but surely, we all can see the potential error of following it
 through to the extreme.
 
 ### Score 5
 
 I partially agree with the statement “The best way to teach is to praise
-positive actions and ignore negative onesd”. Children should be rewarded
+positive actions and ignore negative ones”. Children should be rewarded
 when they perform well; however, they should bot be ignored for
 performing sub-optimally. For purposes of this essay, the term “actions”
 is defined as behaviors within the classroom.
@@ -120,7 +120,7 @@ request that child be tested. If the child does not have an attentional
 problem, then the teacher can work with a related service, such as
 occupational therapy, to alter the classroom environment in order to
 cater to the needs of the child. For instance, the teacher could remove
-some of the stimulating bulliten board displays to make the room more
+some of the stimulating bulletin board displays to make the room more
 calming to the child. If the child becomes more attentive in class then
 the teacher was able to assist the child without *scorning* them or
 ignoring them. The teacher met the needs of the child and created and
@@ -309,14 +309,14 @@ are key examples of the damage that can be wrought when corporations are
 allowed to operate unchecked. Yet within that very statement lies a
 contradiction that undermines this kind of thinking–it is necessary for
 outside forces to check the behavior of corporations, because we do not
-expect corporations to bevave in such manner. In fact, the expectation
+expect corporations to behave in such manner. In fact, the expectation
 is simply that corporations will follow the law, and in the course of
 doing so, engage in every possible tactic to their advantage in the
 pursuit of more and greater profit. To expect otherwise from
 corporations is to fail to understand their purpose and their very
 structure.
 
-The corporation arose as a model of business in which captital could be
+The corporation arose as a model of business in which capital could be
 raised through the contributions of stockholders: investors purchase
 shares in a company, and their money is then used as the operating
 capital for the company. Shareholders buy stock not because they are
@@ -333,7 +333,7 @@ and which do not have goals that are particularly directed toward social
 environment–a description that applies to the vast majority of
 corporations.
 
-Is it a bad thing to have a corporation negatively affact the
+Is it a bad thing to have a corporation negatively affect the
 environment (and by extension, its inhabitants)? To pump noxious fumes
 into the atmosphere as a by-product of its manufacturing process? Of
 course, and this is why agencies such as the EPA were established and
@@ -349,7 +349,7 @@ Engaging in practices to adhere to legal expectations to protect society
 and the environment is costly to corporations. If the very purpose of a
 corporation is to generate profits, and the obligation to adhere to
 safety expectations established by law cuts into those profits, then to
-expect corporations to embrace such practices beyonf what is required to
+expect corporations to embrace such practices beyond what is required to
 presume that they willingly engage in an inherently self-destructive
 process: the unnecessary lowering of profits. This is *antithetical* to
 the very concept of the corporation. Treehuggers everywhere should be
@@ -437,6 +437,71 @@ new markets, products, production processes and other beneficial factors
 that come from promoting well being is quite large. This is something
 that corporations should be ready and willing to take advantage of, and
 something that society should hold them accountable for.
+
+Issue 11
+--------
+
+##### We can usually learn much more from people whose views we share than from people whose views contradict our own. Disagreement can cause stress and inhibit learning.
+
+### Score 6
+
+Do we learn more from people whose ideas we share in common than from
+those whose ideas contradict ours? The speaker daims so, for the reason
+that disagreement can cause stress and inhibit learning. I concede that
+undue discord can impede learning. Otherwise, in my view we learn far
+more from discourse and debate with those whose ideas we oppose than
+from people whose ideas are in accord with our own.
+
+Admittedly, under some circumstances disagreement with others can be
+counterproductive to learning. For supporting examples one need look no
+further than a television set. On today’s typical television or radio
+talk show, disagreement usually manifests itself in meaningless
+rhetorical bouts and shouting matches, during which opponents vie to
+have their own message heard, but have little interest either in finding
+common ground with or in acknowledging the merits of the opponent’s
+viewpoint. Understandably, neither the combatants nor the viewers learn
+anything meaningful. In fact, these battles only serve to reinforce the
+predispositions and biases of all concerned. The end result is that
+learning is impeded.
+
+Disagreement can also inhibit learning when two opponents disagree on
+fundamental assumptions needed for meaningful discourse and debate. For
+example, a student of paleontology learns little about the evolution of
+an animal species under current study by debating with an individual
+whose religious belief system precludes the possibility of evolution to
+begin with. And, economics and finance students learn little about the
+dynamics of a laissez-faire system by debating with a socialist whose
+view is that a centralized power should control all economic activity.
+
+Aside from the foregoing two provisos, however, I fundamentally disagree
+with the speaker’s claim. Assuming common ground between two rational
+and reasonable opponents willing to debate on intellectual merits, both
+opponents stand to gain much from that debate. Indeed it is primarily
+through such debate that human knowledge advances, whether at the
+personal, community, or global level.
+
+At the personal level, by listening to their parents’ rationale for
+their seemingly oppressive rules and policies teenagers can learn how
+certain behaviors naturally carry certain undesirable consequences. At
+the same time, by listening to their teenagers concerns about autonomy
+and about peer pressures parents can learn the valuable lesson that
+effective parenting and control are two different things. At the
+community level, through dispassionate dialogue an environmental
+activist can come to understand the legitimate economic concerns of
+those whose jobs depend on the continued profitable operation of a
+factory. Conversely, the latter might stand to learn much about the
+potential public health price to be paid by ensuring job growth and a
+low unemployment rate. Finally, at the global level, two nations with
+opposing political or economic interests can reach mutually beneficial
+agreements by striving to understand the other’s legitimate concerns for
+its national security, its political sovereignty, the stability of its
+economy and currency, and so forth.
+
+In sum, unless two opponents in a debate are each willing to play on the
+same field and by the same rules, I concede that disagreement can impede
+learning. Otherwise, reasoned discourse and debate between people with
+opposing viewpoints is the very foundation upon which human knowledge
+advances. Accordingly, on balance the speaker is fundamentally correct.
 
 The Pool of Argument Topics
 ===========================
@@ -634,7 +699,7 @@ movie reviews that they use in their advertising.
 
 ### Score 5
 
-Whil the advertising director clearly aims at *relitalizing* his
+While the advertising director clearly aims at *relitalizing* his
 production company and ensuring that the public is well informed about
 the movies which are available, there are several basic flaws to this
 argument. There remain some questions that need answering before any
@@ -677,3 +742,138 @@ answering thse questions and evaluating the resulting answers before
 pouring millions of dollars into his solution. It is possible that an
 alternative solution exists, perhaps one that will not be as expensive
 nor as risky.
+
+Argument 3
+----------
+
+##### The following appeared in a memorandum from the owner of Movies Galore, a chain of video rental stores.
+
+###### In order to reverse the recent decline in our profits, we must reduce operating expenses at Movies Galore’s ten video rental stores. Since we are famous for our special bargains, raising our rental prices is not a viable way to improve profits. Last month our store in downtown Marston significantly decreased its operating expenses by closing at 6:00 P.M. rather than 9:00 P.M. and by reducing its stock by eliminating all movies released more than five years ago. Therefore, in order to increase profits without jeopardizing our reputation for offering great movies at low prices, we recommend implementing similar changes in our other nine Movies Galore stores.
+
+### Score 6
+
+One question which needs to be addressed before implementing the
+recommendation is whether there are not other ways to improve profits
+besides cutting operating expenses. Without proof, the author decides,
+first, that there are only two viable options for increasing the profits
+of Movie Calore: raising rental prices, and cutting costs. He rules out
+the first course, and hence claims the second option must be chosen. But
+it seems there may be alternative methods of increasing profits, such as
+initiating advertising campaigns or closing unprofitable Movie Galore
+locations.
+
+Even if it is granted that there are only two options for increasing
+profitability–cutting costs, and raising rental prices–one might wonder
+why raising rental prices is so unthinkable. The author implies that
+because Movie Galore is famous for special bargains, raising the rental
+prices would eliminate this competitive advantage and decrease
+profitability. However, in making this conclusion, he makes several
+assumptions without considering questions that need to be addressed.
+First, he assumes that there is no room to raise current prices and yet
+maintain lower prices than competitors. One would need to ask if prices
+could be increased slightly, which keeping them cheap. Even if there is
+no room for such strategy, the author assumes that Movies Galore’s
+reputation for bargain pricing would evaporate if they increased their
+prices slightly. Perhaps such a reputation would be widespread enough to
+persist despite a slight increase in prices. And thirdly, even if the
+reputation for bargains would be eliminated by an increase in prices,
+the author assumes that Movies Galore cannot change course and be
+successful in some other way. Perhaps it could instead become known as
+the store with the friendliest employees. Perhaps it already it, and the
+author is wrong to believe that a causal relationship between bargain
+prices and success exists, when the real cause of Movies galore’s good
+reputation is entirely independent of its prices. The author needs to
+answer these questions to convince us that profits are caused by
+bargains, and not by other factors that may be involved.
+
+Another question that needs to be raised is whether or not the downtown
+Marston store is truly analogous to the other nine Movies Galore stores.
+The author seems to assume that because the cost-cutting measures worked
+at the Marston location, it will work at the others, but this is far
+from clear. Perhaps the patrons of the other Movie Galore locations
+would resent such changes in the hours and stock of their local stores.
+Perhaps the most important question that needs to be asked is whether
+the Marston location’s changes truly increased profitability. The author
+writes that the Marston store decreased operating expenses by closing
+earlier and cutting its stock, but he makes no mention of increased
+profitability. It is quite possible that the Marston location’s profits
+decreased as a result of their cost cutting, and this is a question that
+needs to be addressed. The author then jumps to the conclusion that
+taking similar measures would increase profitability at other locations,
+though such a connection has not even been established at the Marston
+store.
+
+Even if the cost-cutting measures increased profitability at the Marston
+store last month (and a causal relationship, though presumably assumed,
+is still far from evident), there is no guarantee that such measures
+would continue to increase profitability over time. One would need to
+ask: why not observe how the Marston location’s action affect
+profitability over several months, before implementing such sweeping
+changes at every store? A single month is a very short time span, and
+the habits of customers may change slowly. As word gets around that the
+Marston store has cut their hours and their selection, they may in fact
+jeopardize their reputation for offering “great movies at low prices”.
+After all, the name of the franchise is Movies Galore, and by
+drastically reducing the available selection, they may alienate their
+customer base. If, as mentioned above, Movies Galore is famous for more
+than its great bargains–if customers prefer Movies Galore because of its
+selections, as well–then such a move may drastically reduce profits over
+time. It seems extremely rash to implement such a new and relatively
+untried strategy at every Movies Galore location, before the effect can
+be observed and interpreted.
+
+### Score 5
+
+Management’s prediction that declining profits could be reversed by
+reducing operating hours and reducing stocks seems to be rash since
+there is little evidence that proper research has been conducted. It may
+be true that profits could be restored by cutting operating costs, but
+management needs to ask whether making these changes would have a
+negative impact on its best source of revenue.
+
+The management states that downtown Marston store “significantly
+decreased its operating expenses by closing at 6:00 p.m. rather that
+9:00 p.m.” It is reasonable to think that closing at 6:00 p.m. rather
+than 9:00 p.m. would decrease operating expenses, but the business is
+concerned with renting movies and these may be the busiest and most
+profitable hours of operation. Could it be that most people renting
+movies have normal working hours and have leisure time at night and to
+fill that time they turn to renting movies? If management researches its
+daily rental history, it may discover that its peak rental hours are
+between 6:00 p.m. and 9:00 p.m. It this is the case, the store could
+lose significant cincome or even go out of business altogether. If
+management wants to reverse a decline in profits by cutting hours of
+operation and thereby reducing expenses, it would be adventageous to
+determine through research which block of time during the day is the
+least profitable and then cut those hours of operation. For instance, if
+it is found that profits are lowest during the morning hours and around
+noon, it would be better to close the store during those hours rather
+than during the hours that bring in the greatest profits.
+
+The management then states that operating expenses will also be cut “by
+eliminating all movies released more than five years ago”. Again, more
+research is needed in order to determine if this would indeed help
+reverse the decline in profits that Movies Galore is experiencing. Is it
+possible that the success of a movie rental business is based on its
+ability to provide customers with a wide array of movie selections, both
+new and old? It could be dangerous for this business to eliminate its
+stock of older movies without first determining the percentages of
+income that come from each product. Management should research its
+history of movie rentals in order to determine if a significant
+percentage of its profits come from the rental of older movies. Even if
+little profit does come from older movies, it may still be unwise to
+eliminate the stock of old movies. If Movies Galore maintains a variety
+of movies, a person searching for a current movie may decide to rent an
+older movie as well. This may be especially relevent in the case of a
+new movie that is sequal to an older movie or part of a trilogy.
+Reducing movie variety may also damage the reputation of the stores. The
+management states that Movie Galore already has a “reputation for
+offering great movies”. If movie variety is suddenly reduced, the stores
+may gain a negative reputation.
+
+Overall, the management makes a prediction that is untrustworthy and
+potentially damaging. More research should be conducted to see if indeed
+such changes to cut operation costs will be effective, and if not, what
+should be done instead. If the proper investigation is implemented by
+the management, Movie Galore store may reverse the recent decline of
+profits.
