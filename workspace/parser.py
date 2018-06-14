@@ -15,7 +15,6 @@ class writing(object):
             self.lines[i] = self.lines[i].replace('\n','')
         self.__issue()
 
-
     def __issue(self):
         temp = []
         for line in self.lines:
@@ -34,9 +33,45 @@ class writing(object):
 
     def issueN(self, n):
         issue = self.passages[n]
-        return issue
+        assert(issue[0][0:5] == "Issue")
+        paragraphs = []
+        for i in range(1,len(issue)):
+            if issue[i][-1] == '"' and issue[i][0] == '"':
+                assert(i == 1)
+                paragraphs.append(issue[i])
+            elif issue[i][0] == '"':
+                assert(i == 1)
+                paragraphs.append(issue[i])
+            elif issue[i][-1] == '"':
+                assert(i > 1)
+                paragraphs[0] += ' ' + issue[i]
+            elif issue[i][0].isupper():
+                paragraphs.append('\n')
+                paragraphs.append(issue[i])
+            elif issue[i][0].islower():
+                paragraphs[-1] += ' ' + issue[i]
+            else:
+                assert(False)
+        parsed = [paragraphs[0].replace('"','')]
+        for i in range(1,len(paragraphs)):
+            if paragraphs[i] == '\n':
+                parsed.append('\n')
+            else:
+                for temp in paragraphs[i].split(sep='. '):
+                    if len(temp)>0:
+                        parsed.append(temp + '.')
+        out = open(self.outpath + 'issue' + str(n+12).zfill(3) + '.tex', 'w')
+        out.writelines('\section{Issue '+ str(n+12) +'}\n')
+        out.writelines('\paragraph{\n')
+        out.writelines(parsed[0] + '\n' + '}\n')
+        out.writelines('\subsection{Score 6}\n')
+        for i in range(1,len(parsed)):
+            out.writelines(parsed[i].replace('..', '.') + '\n')
+        out.close()
+        return
 
 
 if __name__ == "__main__":
-    w = writing("./workspace/issue.txt","")
-    print(w.issueN(0))
+    w = writing("./workspace/issue.txt","./Issue/")
+    for i in range(8, 123):
+        w.issueN(i)
