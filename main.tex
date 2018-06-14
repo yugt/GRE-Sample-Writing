@@ -2,6 +2,7 @@
 \usepackage[margin=1in]{geometry}
 \usepackage{fancyhdr}
 \usepackage{xcolor}
+\usepackage{tikz}
 \pagestyle{fancy}
 
 \title{GRE Sample Writing}
@@ -17,7 +18,8 @@
 \input{./Issue/issue001.tex}
 \include{./Issue/issue002}
 \include{./Issue/issue003}
-\include{./Issue/issue011}
+\foreach \x in {11,...,19}{\include{./Issue/issue0\x}}
+
 
 
 \chapter{The Pool of Argument Topics}
