@@ -40,8 +40,16 @@ class writing(object):
                 assert(i == 1)
                 paragraphs.append(issue[i])
             elif issue[i][0] == '"':
-                assert(i == 1)
-                paragraphs.append(issue[i])
+                # assert(i == 1)
+                if i==1:
+                    paragraphs.append(issue[i])
+                elif issue[i][1].isupper():
+                    paragraphs.append('\n')
+                    paragraphs.append(issue[i])
+                elif issue[i][1].islower():
+                    paragraphs[-1] += ' ' + issue[i]
+                else:
+                    assert(False)
             elif issue[i][-1] == '"':
                 assert(i > 1)
                 paragraphs[0] += ' ' + issue[i]
@@ -57,6 +65,7 @@ class writing(object):
             if paragraphs[i] == '\n':
                 parsed.append('\n')
             else:
+                print(i)
                 for temp in paragraphs[i].split(sep='. '):
                     if len(temp)>0:
                         parsed.append(temp + '.')
